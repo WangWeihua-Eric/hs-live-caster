@@ -1,0 +1,6 @@
+<view class='container-box'>
+    <mlvb-live-room id="id_liveroom" wx:if="{{showLiveRoom}}" roomid="{{roomID}}" role="{{role}}"
+                    roomname="{{roomName}}" pureaudio="{{pureAudio}}" debug="{{debug}}" muted="{{muted}}"
+                    beauty="{{beauty}}" template="float" bindRoomEvent="onRoomEvent">
+    </mlvb-live-room>
+</view>

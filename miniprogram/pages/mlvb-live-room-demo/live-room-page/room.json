@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "小江客服",
+    "usingComponents": {
+        "mlvb-live-room": "/pages/components/mlvb-live-room/mlvbliveroomview"
+    }
+}
